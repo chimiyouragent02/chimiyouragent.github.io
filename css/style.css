@@ -1,1 +1,18 @@
+:root {
+  --green: #123d2e;
+  --green-dark: #062d22;
+  --green-deep: #03281e;
+  --green-light: #1b5641;
 
+  --gold: #c7a35a;
+  --gold-light: #dfbe70;
+  --gold-dark: #a67f35;
+
+  --cream: #f5f0e6;
+  --cream-dark: #eee5d4;
+
+  --white: #fffdf8;
+  --ink: #17231e;
+  --muted: #637068;
+  --line: #ded9cd;
+}
